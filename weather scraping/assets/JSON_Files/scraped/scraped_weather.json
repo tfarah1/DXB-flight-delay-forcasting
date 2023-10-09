@@ -1,0 +1,299 @@
+{
+    "data": {
+        "2023": {
+            "03": {
+                "01": {
+                    "00": {
+                        "Time": "12:00 AM",
+                        "Temperature": "81",
+                        "Dew Point": "52",
+                        "Humidity": "37",
+                        "Wind": "SSW",
+                        "Wind Speed": "5",
+                        "Wind Gust": "0",
+                        "Pressure": "29.93",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "01": {
+                        "Time": "1:00 AM",
+                        "Temperature": "79",
+                        "Dew Point": "54",
+                        "Humidity": "42",
+                        "Wind": "SSW",
+                        "Wind Speed": "5",
+                        "Wind Gust": "0",
+                        "Pressure": "29.90",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "02": {
+                        "Time": "2:00 AM",
+                        "Temperature": "75",
+                        "Dew Point": "68",
+                        "Humidity": "78",
+                        "Wind": "NW",
+                        "Wind Speed": "12",
+                        "Wind Gust": "0",
+                        "Pressure": "29.90",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "03": {
+                        "Time": "3:00 AM",
+                        "Temperature": "77",
+                        "Dew Point": "66",
+                        "Humidity": "69",
+                        "Wind": "N",
+                        "Wind Speed": "6",
+                        "Wind Gust": "0",
+                        "Pressure": "29.87",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "04": {
+                        "Time": "4:00 AM",
+                        "Temperature": "75",
+                        "Dew Point": "66",
+                        "Humidity": "73",
+                        "Wind": "VAR",
+                        "Wind Speed": "3",
+                        "Wind Gust": "0",
+                        "Pressure": "29.87",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "05": {
+                        "Time": "5:00 AM",
+                        "Temperature": "75",
+                        "Dew Point": "68",
+                        "Humidity": "78",
+                        "Wind": "NNW",
+                        "Wind Speed": "6",
+                        "Wind Gust": "0",
+                        "Pressure": "29.90",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "06": {
+                        "Time": "6:00 AM",
+                        "Temperature": "75",
+                        "Dew Point": "68",
+                        "Humidity": "78",
+                        "Wind": "E",
+                        "Wind Speed": "5",
+                        "Wind Gust": "0",
+                        "Pressure": "29.90",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "07": {
+                        "Time": "7:00 AM",
+                        "Temperature": "73",
+                        "Dew Point": "64",
+                        "Humidity": "73",
+                        "Wind": "E",
+                        "Wind Speed": "7",
+                        "Wind Gust": "0",
+                        "Pressure": "29.93",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "08": {
+                        "Time": "8:00 AM",
+                        "Temperature": "75",
+                        "Dew Point": "66",
+                        "Humidity": "73",
+                        "Wind": "SE",
+                        "Wind Speed": "3",
+                        "Wind Gust": "0",
+                        "Pressure": "29.96",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "09": {
+                        "Time": "9:00 AM",
+                        "Temperature": "75",
+                        "Dew Point": "59",
+                        "Humidity": "57",
+                        "Wind": "SSW",
+                        "Wind Speed": "5",
+                        "Wind Gust": "0",
+                        "Pressure": "29.98",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "10": {
+                        "Time": "10:00 AM",
+                        "Temperature": "81",
+                        "Dew Point": "61",
+                        "Humidity": "51",
+                        "Wind": "VAR",
+                        "Wind Speed": "2",
+                        "Wind Gust": "0",
+                        "Pressure": "30.01",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "11": {
+                        "Time": "11:00 AM",
+                        "Temperature": "82",
+                        "Dew Point": "59",
+                        "Humidity": "45",
+                        "Wind": "VAR",
+                        "Wind Speed": "5",
+                        "Wind Gust": "0",
+                        "Pressure": "30.01",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "12": {
+                        "Time": "12:00 PM",
+                        "Temperature": "84",
+                        "Dew Point": "61",
+                        "Humidity": "45",
+                        "Wind": "NNW",
+                        "Wind Speed": "7",
+                        "Wind Gust": "0",
+                        "Pressure": "29.98",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "13": {
+                        "Time": "1:00 PM",
+                        "Temperature": "82",
+                        "Dew Point": "66",
+                        "Humidity": "58",
+                        "Wind": "WNW",
+                        "Wind Speed": "13",
+                        "Wind Gust": "0",
+                        "Pressure": "29.98",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "14": {
+                        "Time": "2:00 PM",
+                        "Temperature": "81",
+                        "Dew Point": "66",
+                        "Humidity": "61",
+                        "Wind": "W",
+                        "Wind Speed": "10",
+                        "Wind Gust": "0",
+                        "Pressure": "29.96",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "15": {
+                        "Time": "3:00 PM",
+                        "Temperature": "79",
+                        "Dew Point": "66",
+                        "Humidity": "65",
+                        "Wind": "W",
+                        "Wind Speed": "10",
+                        "Wind Gust": "0",
+                        "Pressure": "29.96",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "16": {
+                        "Time": "4:00 PM",
+                        "Temperature": "77",
+                        "Dew Point": "68",
+                        "Humidity": "74",
+                        "Wind": "W",
+                        "Wind Speed": "12",
+                        "Wind Gust": "0",
+                        "Pressure": "29.96",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "17": {
+                        "Time": "5:00 PM",
+                        "Temperature": "77",
+                        "Dew Point": "66",
+                        "Humidity": "69",
+                        "Wind": "VAR",
+                        "Wind Speed": "8",
+                        "Wind Gust": "0",
+                        "Pressure": "29.98",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "18": {
+                        "Time": "6:00 PM",
+                        "Temperature": "77",
+                        "Dew Point": "68",
+                        "Humidity": "74",
+                        "Wind": "WSW",
+                        "Wind Speed": "9",
+                        "Wind Gust": "0",
+                        "Pressure": "30.01",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "19": {
+                        "Time": "7:00 PM",
+                        "Temperature": "77",
+                        "Dew Point": "66",
+                        "Humidity": "69",
+                        "Wind": "SW",
+                        "Wind Speed": "9",
+                        "Wind Gust": "0",
+                        "Pressure": "30.01",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "20": {
+                        "Time": "8:00 PM",
+                        "Temperature": "77",
+                        "Dew Point": "63",
+                        "Humidity": "61",
+                        "Wind": "ENE",
+                        "Wind Speed": "8",
+                        "Wind Gust": "0",
+                        "Pressure": "29.98",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "21": {
+                        "Time": "9:00 PM",
+                        "Temperature": "79",
+                        "Dew Point": "63",
+                        "Humidity": "57",
+                        "Wind": "E",
+                        "Wind Speed": "3",
+                        "Wind Gust": "0",
+                        "Pressure": "29.98",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "22": {
+                        "Time": "10:00 PM",
+                        "Temperature": "77",
+                        "Dew Point": "61",
+                        "Humidity": "57",
+                        "Wind": "E",
+                        "Wind Speed": "8",
+                        "Wind Gust": "0",
+                        "Pressure": "29.96",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    },
+                    "23": {
+                        "Time": "11:00 PM",
+                        "Temperature": "77",
+                        "Dew Point": "59",
+                        "Humidity": "54",
+                        "Wind": "E",
+                        "Wind Speed": "7",
+                        "Wind Gust": "0",
+                        "Pressure": "29.98",
+                        "Precip.": "0.0",
+                        "Condition": "Fair"
+                    }
+                }
+            }
+        }
+    },
+    "last_scraped_date": "2023-03-01"
+}
